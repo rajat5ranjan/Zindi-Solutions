@@ -18,6 +18,9 @@ The files you have for download here are:
 * **train_labels.csv**: This is the list of images in the train set, 1 indicates an image with a person with a mask, 0 indicates a person without a mask.
 * **sample_submission.csv**: is an example of what your submission file should look like, including a list of unique image IDs. Your submission file should have all of the Image IDs in this file along with estimates of the corresponding probabilities of observing a person with a mask.
 
+**[Kaggle Solution](https://www.kaggle.com/rajatranjan/zindi-spot-the-mask)**
+
+
 ## Leaderboard
 
 * **[Private LB](https://zindi.africa/hackathons/spot-the-mask-challenge/leaderboard)** : **24th/136 Rank**
