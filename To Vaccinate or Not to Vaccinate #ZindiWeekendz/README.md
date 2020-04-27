@@ -15,7 +15,7 @@ agreement: The tweets were labeled by three people. Agreement indicates the perc
 
 **Files available for download are:**
 
-* **Train.csv **- Labelled tweets on which to train your model
+* **Train.csv** - Labelled tweets on which to train your model
 * **Test.csv** - Tweets that you must classify using your trained model
 * **SampleSubmission.csv** - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the ID must be correct. Values in the 'label' column should range between -1 and 1.
 
