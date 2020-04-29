@@ -27,4 +27,4 @@ agreement: The tweets were labeled by three people. Agreement indicates the perc
 
 ## Leaderboard
 
-* **[Private LB](https://zindi.africa/hackathons/to-vaccinate-or-not-to-vaccinate-its-not-a-question/leaderboard)** : **4th/122 Rank**
+* **[Private LB](https://zindi.africa/hackathons/to-vaccinate-or-not-to-vaccinate-its-not-a-question/leaderboard)** : **3th/122 Rank**
