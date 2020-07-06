@@ -31,7 +31,7 @@ Files available for download
 
 ## Leaderboard
 
-* **[Private LB](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)** : **26rd/454 Rank**
+* **[Private LB](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)** **Decepticons**: **26rd/454 Rank**
 
 ## Solution Link
 * **Simple SVM Classifier** [Kaggle V17](https://www.kaggle.com/rajatranjan/basic-needs-zindi-simple) `0.4389`
