@@ -8,3 +8,4 @@
 * **[SANSA AWS Informal Settlements in South Africa by #ZindiWeekendz](https://zindi.africa/hackathons/sansa-informal-settlements-in-south-africa/leaderboard)** `17th`
 
 ## Competitions
+* **[Basic Needs Basic Rights Kenya - Tech4MentalHealth](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth)** **Decepticons** : `26th`
